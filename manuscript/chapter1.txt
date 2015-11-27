@@ -1,2 +1,4 @@
 # Chapter 1 
-Hello, world!
+Learning how to write apps can be a daunting task. Although, there are numerous (usually free) resources available online to help you learn how to write apps, most times, these resources are either too technical or dated.
+
+Another problem is that most code snippets found online are too generic and lack context.
